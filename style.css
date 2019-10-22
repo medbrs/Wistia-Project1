@@ -71,7 +71,7 @@ li:hover{
 }
 .paragraphs{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     width: 100%;
     font-family: 'Open Sans', sans-serif;
     
@@ -83,22 +83,21 @@ li:hover{
     background-color: RGB(254, 210, 75);
     float: left;
     
-    width: 30%;
+    width: 33.33%;
     padding: 2%;
 }
 .parag-2{
     background-color: RGB(80, 194, 160);
     float: left;
-    width: 33%;
+    width: 33.33%;
     padding: 2%;
 
 
 }
 .parag-3{
     float: left;
-    width: 25%;
+    width: 33.33%;
     padding: 2%;
-    margin-bottom: -10px;
     background-color: #3eaaf5;
 }
 
